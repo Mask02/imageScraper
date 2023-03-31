@@ -10,5 +10,5 @@
 
    3- file name should be data.xlsm. So, make sure to rename your Excel file
 
-   4 In cse Any other Excel file date should be in the same
+   4 In case Any other Excel file date should be in the same
         format as the file you forwarded to me.
